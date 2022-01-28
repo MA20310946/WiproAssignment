@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+  /* height: 100%; */
+}
+.displaycontainer{
+  display: flex
+}
+.searchformfield{
+  padding: 52px;
+  margin-left: 10px;
+  width: 400px;
+}
+.topmargin{
+  margin-top: -50px;
+}
